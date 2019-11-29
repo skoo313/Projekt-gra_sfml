@@ -6,4 +6,4 @@ Poprawa znajomości języka C++ i pracy z bibliotekami (w tym projekcie sfml).
 Stworzenie gry typu base defence ze statycznym graczem i atakującymi go przeciwnikami. Wszystkie użyte grafiki pochodzą z serialu South Park.
 
 ## Efekt końcowy
-https://www.youtube.com/watch?v=7dRfX3wD1rc
+https://www.youtube.com/watch?v=0VbSs025-x8
